@@ -1,0 +1,4 @@
+﻿  Multiplicacion_Matrices_MP.cpp
+C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion_Matrices_MP\Multiplicacion_Matrices_MP\Multiplicacion_Matrices_MP.cpp(35,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion_Matrices_MP\Multiplicacion_Matrices_MP\Multiplicacion_Matrices_MP.cpp(28,15): warning C4101: 'k': variable local sin referencia
+  Multiplicacion_Matrices_MP.vcxproj -> C:\Users\AOROS\Desktop\Dev\C++\Multiplicacion_Matrices_MP\Debug\Multiplicacion_Matrices_MP.exe
